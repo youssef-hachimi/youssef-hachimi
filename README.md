@@ -46,14 +46,6 @@ I'm an IT and cybersecurity enthusiast passionate about securing infrastructure,
 | 🌐 Networking | Network configuration and system administration |
 
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youssef-hachimi&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Statistics" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-hachimi&layout=compact&hide_border=true&theme=tokyonight" alt="Most Used Languages" height="180" />
-</p>
----
-
 <div align="center">
   <i>Building. Learning. Securing.</i>
 </div>
