@@ -1,45 +1,64 @@
-# Hi 👋, I'm Youssef Hachimi
+# 👋 Hi, I'm Youssef Hachimi
 
-\<h3 align="center">🎓 Master's Student in Intelligent Connected Systems, Advanced Networks & Telecommunications | Cybersecurity & Cloud Enthusiast\</h3>
-
-\<p align="center">
-&#x20; \<img src="[https://komarev.com/ghpvc/?username=youssef-hachimi&label=Profile%20Views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=youssef-hachimi\&label=Profile%20Views\&color=0e75b6\&style=flat)" alt="Profile views" />
-\</p>
-
-## 👨‍💻 About Me
-
-
-- 🔐 Interested in **Cybersecurity, Cloud Security, and Network Administration**.
-- ☁️ Exploring Microsoft Azure, Linux, SIEM, and cloud security architectures.
-- 🌐 Interested in advanced networks, intelligent systems, and telecommunications.
-- 🛠️ Experienced in academic and practical projects involving system administration, networking, and security.
-- 📂 Explore my projects: [GitHub Repositories](https://github.com/youssef-hachimi?tab=repositories)
-
-## 🚀 Featured Interests
-
-- **Cybersecurity:** SIEM, intrusion detection, security monitoring, IAM and RBAC.
-- **Cloud Computing:** Microsoft Azure and cloud infrastructure security.
-- **Networking & Systems:** Linux, network configuration, Bash scripting and administration.
-- **DevOps:** Git, Docker, and infrastructure automation.
-- **Programming:** Python, C, C++, PHP, JavaScript, and SQL.
-
-## 🤝 Connect with Me
-
-\<p align="left">   \<a href="[https://linkedin.com/in/youssef-hachimi](https://linkedin.com/in/youssef-hachimi)" target="\_blank">     \<img src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)" alt="LinkedIn" width="40" height="40"/>   \</a>   \<a href="[https://stackoverflow.com/users/17404048/youssef-hachimi](https://stackoverflow.com/users/17404048/youssef-hachimi)" target="\_blank">     \<img src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg)" alt="Stack Overflow" width="40" height="40"/>   \</a>   \<a href="[https://www.leetcode.com/youssef-hachi/](https://www.leetcode.com/youssef-hachi/)" target="\_blank">     \<img src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)" alt="LeetCode" width="40" height="40"/>   \</a> \</p>
-
-## 🧰 Languages and Tools
-
-\<p align="left">   \<a href="[https://azure.microsoft.com/](https://azure.microsoft.com/)" target="\_blank">     \<img src="[https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg)" alt="Azure" width="40" height="40"/>   \</a>   \<a href="[https://www.gnu.org/software/bash/](https://www.gnu.org/software/bash/)" target="\_blank">     \<img src="[https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)" alt="Bash" width="40" height="40"/>   \</a>   \<a href="[https://www.linux.org/](https://www.linux.org/)" target="\_blank">     \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)" alt="Linux" width="40" height="40"/>   \</a>   \<a href="[https://www.docker.com/](https://www.docker.com/)" target="\_blank">     \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)" alt="Docker" width="40" height="40"/>   \</a>   \<a href="[https://git-scm.com/](https://git-scm.com/)" target="\_blank">     \<img src="[https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)" alt="Git" width="40" height="40"/>   \</a>   \<a href="[https://github.com/](https://github.com/)" target="\_blank">     \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg)" alt="GitHub" width="40" height="40"/>   \</a>   \<a href="[https://www.python.org/](https://www.python.org/)" target="\_blank">     \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)" alt="Python" width="40" height="40"/>   \</a>   \<a href="[https://www.cprogramming.com/](https://www.cprogramming.com/)" target="\_blank">     \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)" alt="C" width="40" height="40"/>   \</a>   \<a href="[https://cplusplus.com/](https://cplusplus.com/)" target="\_blank">     \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)" alt="C++" width="40" height="40"/>   \</a>   \<a href="[https://www.w3.org/html/](https://www.w3.org/html/)" target="\_blank">     \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)" alt="HTML5" width="40" height="40"/>   \</a>   \<a href="[https://www.w3.org/Style/CSS/](https://www.w3.org/Style/CSS/)" target="\_blank">     \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)" alt="CSS3" width="40" height="40"/>   \</a>   \<a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)" target="\_blank">     \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)" alt="JavaScript" width="40" height="40"/>   \</a>   \<a href="[https://www.php.net/](https://www.php.net/)" target="\_blank">     \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)" alt="PHP" width="40" height="40"/>   \</a>   \<a href="[https://www.mysql.com/](https://www.mysql.com/)" target="\_blank">     \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)" alt="MySQL" width="40" height="40"/>   \</a>   \<a href="[https://www.mongodb.com/](https://www.mongodb.com/)" target="\_blank">     \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)" alt="MongoDB" width="40" height="40"/>   \</a>   \<a href="[https://nginx.org/](https://nginx.org/)" target="\_blank">     \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg)" alt="Nginx" width="40" height="40"/>   \</a>   \<a href="[https://dart.dev/](https://dart.dev/)" target="\_blank">     \<img src="[https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg](https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg)" alt="Dart" width="40" height="40"/>   \</a>   \<a href="[https://flutter.dev/](https://flutter.dev/)" target="\_blank">     \<img src="[https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg)" alt="Flutter" width="40" height="40"/>   \</a>   \<a href="[https://pandas.pydata.org/](https://pandas.pydata.org/)" target="\_blank">     \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg)" alt="Pandas" width="40" height="40"/>   \</a> \</p>
-
-## 📊 GitHub Statistics
-
-\<p align="center">
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api?username=youssef-hachimi&show_icons=true&hide_border=true&locale=en](https://github-readme-stats.vercel.app/api?username=youssef-hachimi\&show_icons=true\&hide_border=true\&locale=en)" alt="GitHub Statistics" height="180"/>
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api/top-langs?username=youssef-hachimi&show_icons=true&hide_border=true&locale=en&layout=compact](https://github-readme-stats.vercel.app/api/top-langs?username=youssef-hachimi\&show_icons=true\&hide_border=true\&locale=en\&layout=compact)" alt="Top Languages" height="180"/>
-\</p>
+<div align="center">
+  <h3>Cybersecurity · Cloud Computing · Networks & Intelligent Systems</h3>
+  <img src="https://komarev.com/ghpvc/?username=youssef-hachimi&style=flat-square&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views"/>
+  <br/><br/>
+  <a href="https://linkedin.com/in/youssef-hachimi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/youssef-hachimi?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
+  <a href="https://stackoverflow.com/users/17404048/youssef-hachimi"><img src="https://img.shields.io/badge/Stack_Overflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
+</div>
 
 ---
 
-\<p align="center">
-&#x20; 💡 \<i>Learning, building, and securing the connected world.\</i>
-\</p>
+## 👨‍💻 About Me
+
+I'm an IT and cybersecurity enthusiast passionate about securing infrastructure, exploring cloud technologies, and building practical solutions.
+
+- 🔐 Cybersecurity, SIEM, intrusion detection, IAM & RBAC
+- ☁️ Microsoft Azure and cloud security
+- 🐧 Linux, networking and system administration
+- ⚙️ Bash scripting, Git and Docker
+- 🌐 Advanced networks and intelligent connected systems
+
+## 🛠️ Technologies & Tools
+
+<div align="center">
+
+### Cloud & Systems
+
+<img src="https://skillicons.dev/icons?i=azure,linux,bash,docker,nginx" alt="Cloud and systems technologies"/>
+
+### Programming & Web
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,php,js,html,css" alt="Programming and web technologies"/>
+
+### Databases & Development
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github" alt="Databases and development tools"/>
+
+</div>
+
+## 🚀 Areas of Interest
+
+| Domain | Focus |
+|---|---|
+| 🔒 Cybersecurity | SIEM, Wazuh, Suricata, IAM and threat detection |
+| ☁️ Cloud | Azure infrastructure and security architecture |
+| 🌐 Networking | Network configuration and system administration |
+| ⚙️ DevOps | Git, Docker and automation |
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=youssef-hachimi&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub statistics"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-hachimi&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages"/>
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=youssef-hachimi&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</div>
+
+---
+
+<div align="center">
+  <i>Building. Learning. Securing.</i>
+</div>
