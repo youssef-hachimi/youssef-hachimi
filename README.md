@@ -46,17 +46,22 @@ I'm an IT and cybersecurity enthusiast passionate about securing infrastructure,
 | 🌐 Networking | Network configuration and system administration |
 
 
-<h2 align="center">💻 Most Used Languages</h2>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-hachimi&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
+<h2> Most Used Languages</h2>
 
-<h2 align="center">📊 GitHub Statistics</h2>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=youssef-hachimi&theme=github" width="48%" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youssef-hachimi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
-</p>
+<h2> GitHub Statistics</h2>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=youssef-hachim&theme=github" width="48%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youssef-hachimi&theme=github" width="95%" />
+
+</div>
+
 
 <div align="center">
   <i>Building. Learning. Securing.</i>
