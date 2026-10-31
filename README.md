@@ -45,7 +45,17 @@ I'm an IT and cybersecurity enthusiast passionate about securing infrastructure,
 | ☁️ Cloud | Azure infrastructure and security architecture |
 | 🌐 Networking | Network configuration and system administration |
 
+<div align="center">
 
+## 💻 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-hachimi&layout=compact&theme=tokyonight&hide_border=true" />
+
+## 📊 GitHub Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=youssef-hachimi&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
+
+</div>
 <div align="center">
   <i>Building. Learning. Securing.</i>
 </div>
