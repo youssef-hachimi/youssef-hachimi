@@ -52,13 +52,7 @@ I'm an IT and cybersecurity enthusiast passionate about securing infrastructure,
 
 <h2> Most Used Languages</h2>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=youssef-hachimi&theme=tokyonight" width="50%" />
-
-<h2> GitHub Statistics</h2>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=youssef-hachim&theme=tokyonight" width="50%" />
-
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=youssef-hachimi&theme=tokyonight" width="40%" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youssef-hachimi&theme=tokyonight" width="95%" />
 
